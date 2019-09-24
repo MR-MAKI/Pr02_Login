@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pr02_Login</string>
+    <string name="st_textlogin">LOGIN</string>
+    <string name="st_et_usuario"></string>
+    <string name="st_et_pass"></string>
+    <string name="st_btn_inicia">Iniciar</string>
+    <string name="st_btn_registra">Registrar</string>
+</resources>
